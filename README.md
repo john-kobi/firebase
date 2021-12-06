@@ -1,2 +1,2 @@
 # Firebase app
-First time working with Firebase
+First time working with Firebase!
